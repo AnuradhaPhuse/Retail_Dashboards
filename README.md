@@ -202,7 +202,7 @@ Example:
 
 ![Dashboard Preview][(dashboard.png)](https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash1.png)
 
-
+(https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash2.png)
 
 # Data Cleaning Steps
 
