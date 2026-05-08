@@ -197,9 +197,12 @@ Repeat Customer Analysis
 Customer Segmentation
 Customer Revenue Insights
 
+# Screenshots:
 Example:
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview][(dashboard.png)](https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash1.png)
+
+
 
 # Data Cleaning Steps
 
