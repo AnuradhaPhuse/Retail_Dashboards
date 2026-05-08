@@ -201,29 +201,7 @@ Customer Revenue Insights
 Example:
 
 ![Dashboard Preview][(dashboard.png)](https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash1.png)
-
 (https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash2.png)
-
-# Data Cleaning Steps
-
-The following data cleaning operations were performed:
-
-Removed null values
-Changed data types
-Removed duplicate records
-Cleaned column names
-Formatted date columns
-Validated sales and profit values
-
-# Power BI Visualizations Used:
-KPI Cards
-Clustered Bar Chart
-Pie Chart
-Donut Chart
-Line Chart
-Map Chart
-Table Visual
-Slicers
 
 
 
