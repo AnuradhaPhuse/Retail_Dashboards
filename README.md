@@ -164,6 +164,7 @@ Which customer segment generates the most revenue?
 How do new customers compare with repeat customers?
 Which regions need improvement in sales performance?
 
+
 The dashboard answers important business questions such as:
 
 What is the total sales revenue?
@@ -180,10 +181,6 @@ What are the sales and profit trends over time?
 Which regions require business improvement?
 
 # Dashboard Preview:
-
-
-Add screenshots of both Power BI dashboards here.
-
 Dashboard 1: Online Retail Sales Dashboard
 Sales KPIs
 Revenue Trends
