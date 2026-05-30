@@ -17,36 +17,36 @@ The dashboards help businesses track KPIs, identify sales trends, understand cus
 
 The dashboard provides insights into:
 
-Sales performance
-Profit analysis
-Product category trends
-Regional performance
-Customer purchasing patterns
-Order quantity analysis
+Sales performance,
+Profit analysis,
+Product category trends,
+Regional performance,
+Customer purchasing patterns,
+Order quantity analysis,
 
 # Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-Power BI Desktop – Main data visualization platform used for report creation
-Power Query – Used for data cleaning and transformation
-DAX (Data Analysis Expressions) – Used for calculations and data analysis
-Microsoft Excel / CSV Dataset – Data source format
-Data Modeling – Relationships built between tables for analysis
+Power BI Desktop – Main data visualization platform used for report creation,
+Power Query – Used for data cleaning and transformation,
+DAX (Data Analysis Expressions) – Used for calculations and data analysis,
+Microsoft Excel / CSV Dataset – Data source format,
+Data Modeling – Relationships built between tables for analysis,
 
 # Data Source
 
 The dataset used in this project contains retail order and sales information.
 
 Dataset Includes:
-Order Details
-Customer Information
-Product Categories
-Sales Amount
-Profit
-Quantity Ordered
-Regional Data
-Order Dates
+Order Details,
+Customer Information,
+Product Categories,
+Sales Amount,
+Profit,
+Quantity Ordered,
+Regional Data,
+Order Dates.
 
 The data was imported into Power BI and cleaned using Power Query Editor.
 
@@ -55,49 +55,49 @@ Online Retail Sales Dashboard:
 
 KPI Metrics:
 
-Total Customers
-Total Revenue
-Total Orders
-Total Products Sold
-Average Order Value
+Total Customers,
+Total Revenue,
+Total Orders,
+Total Products Sold,
+Average Order Value,
 
 Sales Insights:
 
-Monthly Revenue Trend
-Sales by Weekdays
-Top 5 Countries by Orders
-Revenue by Country (Map Visualization)
-Top 10 Products by Revenue
-Peak Shopping Hours Analysis
+Monthly Revenue Trend,
+Sales by Weekdays,
+Top 5 Countries by Orders,
+Revenue by Country (Map Visualization),
+Top 10 Products by Revenue,
+Peak Shopping Hours Analysis,
 
 Customer Analysis Dashboard:
 
 Customer KPIs:
 
-Total Customers
-Repeat Customers
-Average Customer Revenue
-Average Orders Per Customer
-Total Revenue
+Total Customers,
+Repeat Customers,
+Average Customer Revenue,
+Average Orders Per Customer,
+Total Revenue,
 
 Customer Insights:
 
-Revenue by Country
-Sales by Customer ID
-Top 10 Customers by Orders
-New Customers Over Time
-Customer Segmentation by Revenue
+Revenue by Country,
+Sales by Customer ID,
+Top 10 Customers by Orders,
+New Customers Over Time,
+Customer Segmentation by Revenue,
 New vs Repeat Customer Analysis
 
 # Business Problem:
 
 Retail businesses often struggle to:
 
-Track overall sales performance
-Identify profitable products
-Analyze customer buying behavior
-Compare regional performance
-Monitor profit trends over time
+1 .Track overall sales performance
+2. Identify profitable products
+3. Analyze customer buying behavior
+4. Compare regional performance
+5. Monitor profit trends over time
 
 This dashboard solves these problems by providing interactive and visual analytics.
 
@@ -105,31 +105,31 @@ This dashboard solves these problems by providing interactive and visual analyti
 
 Sales Analysis:
 
-Total Sales Overview
-Monthly and Yearly Sales Trends
-Category-wise Sales Breakdown
-Top Performing Products
+Total Sales Overview,
+Monthly and Yearly Sales Trends,
+Category-wise Sales Breakdown,
+Top Performing Products,
 
 Profit Analysis:
 
-Profit by Category
-Profit by Region
-High vs Low Profit Products
-Profit Trend Analysis
+Profit by Category,
+Profit by Region,
+High vs Low Profit Products,
+Profit Trend Analysis,
 
 Customer Insights:
 
-Customer Purchase Patterns
-Top Customers by Sales
-Regional Customer Distribution
+Customer Purchase Patterns,
+Top Customers by Sales,
+Regional Customer Distribution,
 
 Interactive Visuals:
 
-KPI Cards
-Bar Charts
-Pie Charts
-Line Charts
-Map Visualization
+KPI Cards,
+Bar Charts,
+Pie Charts,
+Line Charts,
+Map Visualization,
 Slicers and Filters
 
 # Example Insights:
@@ -151,53 +151,52 @@ Customer purchasing activity increased during festive periods.
 
 The dashboards answer important business questions such as:
 
-What is the total revenue generated from online retail sales?
-Which country contributes the highest sales revenue?
-Which weekdays generate the highest sales?
-What are the monthly revenue trends?
-Which products generate the highest revenue?
-What are the peak shopping hours?
-Who are the top customers by order count?
-How many customers are repeat customers?
-What is the average revenue per customer?
-Which customer segment generates the most revenue?
-How do new customers compare with repeat customers?
-Which regions need improvement in sales performance?
+1. What is the total revenue generated from online retail sales?
+2. Which country contributes the highest sales revenue?
+3. Which weekdays generate the highest sales?
+4. What are the monthly revenue trends?
+5. Which products generate the highest revenue?
+6. What are the peak shopping hours?
+7. Who are the top customers by order count?
+8. How many customers are repeat customers?
+9. What is the average revenue per customer?
+10. Which customer segment generates the most revenue?
+11. How do new customers compare with repeat customers?
+12. Which regions need improvement in sales performance?
 
 
 The dashboard answers important business questions such as:
 
-What is the total sales revenue?
-Which product category generates the highest sales?
-Which region performs best in terms of profit?
-What are the monthly sales trends?
-Which products are the most profitable?
-Which products have low profit margins?
-Who are the top customers by sales amount?
-Which states or cities contribute the most revenue?
-How does quantity ordered affect profit?
-Which category has the highest customer demand?
-What are the sales and profit trends over time?
-Which regions require business improvement?
+1. What is the total sales revenue?
+2. Which product category generates the highest sales?
+3. Which region performs best in terms of profit?
+4. What are the monthly sales trends?
+5. Which products are the most profitable?
+6. Which products have low profit margins?
+7. Who are the top customers by sales amount?
+8. Which states or cities contribute the most revenue?
+9. How does quantity ordered affect profit?
+10. Which category has the highest customer demand?
+11. What are the sales and profit trends over time?
+12. Which regions require business improvement?
 
 # Dashboard Preview:
 Dashboard 1: Online Retail Sales Dashboard
-Sales KPIs
-Revenue Trends
-Product Analysis
-Country-wise Revenue
-Peak Shopping Hours
+Sales KPIs,
+Revenue Trends,
+Product Analysis,
+Country-wise Revenue,
+Peak Shopping Hours,
 
 Dashboard 2: Customer Analysis Dashboard
-Customer KPIs
-Repeat Customer Analysis
-Customer Segmentation
-Customer Revenue Insights
+Customer KPIs,
+Repeat Customer Analysis,
+Customer Segmentation,
+Customer Revenue Insights,
 
 # Screenshots:
 Example:
-
-![Dashboard Preview][(dashboard.png)](https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash1.png)
+(https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash1.png)
 (https://github.com/AnuradhaPhuse/Retail_Dashboards/blob/main/dash2.png)
 
 
